@@ -46,13 +46,13 @@ API RESTful para um sistema de folha de ponto digital, desenvolvida em Java com 
 1.  **Clone o repositório:**
 
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
+    git clone git@github.com:Moises-Ribeiro-Santos/digital.git
     ```
 
 2.  **Navegue até o diretório do projeto:**
 
     ```bash
-    cd nome-do-repositorio
+    cd digital
     ```
 
 3.  **Execute a aplicação com o Maven:**
